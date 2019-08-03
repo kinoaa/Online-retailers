@@ -1,0 +1,650 @@
+{
+    "data": [
+        {
+            "orange": {
+                "backimg": "http://z.dangdang.com/static/img/%E5%8D%A1%E7%89%87-%E6%A9%99@2x.54e6a8b.png",
+                "goimg": "http://z.dangdang.com/static/img/go%E6%A9%99@2x.1fbf935.png",
+                "lists": {
+                    "listTitle": "满额减",
+                    "listTxt1": "此书参加电子书每满30减15",
+                    "listTxt2": "活动时间：2019年7月23日—2019年7月31日",
+                    "listImg1": "http://img3m4.ddimg.cn/88/35/1900601494-1_b_2.jpg",
+                    "listImg2": "http://img3m1.ddimg.cn/24/4/1901124051-1_b_1.jpg",
+                    "listImg3": "http://img3m7.ddimg.cn/14/15/1901104637-1_b_4.jpg"
+                }
+            },
+            "blue": {
+                "backimg": "http://z.dangdang.com/static/img/%E5%8D%A1%E7%89%87-%E7%B4%AB@2x.74455b2.png",
+                "goimg": "http://z.dangdang.com/static/img/go%E7%B4%AB@2x.19428eb.png",
+                "lists": {
+                    "listTitle": "满减额",
+                    "listTxt1": "外语考试每满100减30",
+                    "listTxt2": "活动时间：2019年7月23日—2019年7月26日",
+                    "listImg1": "http://img3m8.ddimg.cn/34/12/27890908-1_b_5.jpg",
+                    "listImg2": "http://img3m7.ddimg.cn/33/11/27890907-1_b_4.jpg",
+                    "listImg3": "http://img3m5.ddimg.cn/43/32/20264155-1_b_2.jpg"
+                }
+            },
+            "powder": {
+                "backimg": "http://z.dangdang.com/static/img/%E5%8D%A1%E7%89%87-%E7%B2%89@2x.e2c9871.png",
+                "goimg": "http://z.dangdang.com/static/img/go%E7%B2%89@2x.a67564c.png",
+                "lists": {
+                    "listTitle": "N元场",
+                    "listTxt1": "7月49元5件",
+                    "listTxt2": "活动时间：2019年7月1日—2019年7月31日",
+                    "listImg1": "http://img3m6.ddimg.cn/31/33/25081186-1_b_5.jpg",
+                    "listImg2": "http://img3m3.ddimg.cn/7/9/27890683-1_b_3.jpg",
+                    "listImg3": "http://img3m2.ddimg.cn/6/8/27890682-1_b_2.jpg"
+                }
+            }
+        },
+        {
+            "orange": {
+                "backimg": "http://z.dangdang.com/static/img/%E5%8D%A1%E7%89%87-%E6%A9%99@2x.54e6a8b.png",
+                "goimg": "http://z.dangdang.com/static/img/go%E6%A9%99@2x.1fbf935.png",
+                "lists": {
+                    "listTitle": "满额减",
+                    "listTxt1": "教辅每满100减50",
+                    "listTxt2": "活动时间：2019年7月18日—2019年7月31日",
+                    "listImg1": "http://img3m6.ddimg.cn/73/33/25193296-1_b_345.jpg",
+                    "listImg2": "http://img3m3.ddimg.cn/29/14/25574303-1_b_5.jpg",
+                    "listImg3": "http://img3m4.ddimg.cn/51/28/25114074-1_b_2.jpg"
+                }
+            },
+            "blue": {
+                "backimg": "http://z.dangdang.com/static/img/%E5%8D%A1%E7%89%87-%E7%B4%AB@2x.74455b2.png",
+                "goimg": "http://z.dangdang.com/static/img/go%E7%B4%AB@2x.19428eb.png",
+                "lists": {
+                    "listTitle": "满减额",
+                    "listTxt1": "中小学教辅跨店每满75减25",
+                    "listTxt2": "活动时间：2019年7月21日—2019年7月24日",
+                    "listImg1": "http://img3m0.ddimg.cn/86/35/1018361210-1_b_15.jpg",
+                    "listImg2": "http://img3m9.ddimg.cn/87/5/1204157679-1_b_5.jpg",
+                    "listImg3": "http://img3m3.ddimg.cn/96/6/1409308953-1_b_8.jpg"
+                }
+            },
+            "powder": {
+                "backimg": "http://z.dangdang.com/static/img/%E5%8D%A1%E7%89%87-%E7%B2%89@2x.e2c9871.png",
+                "goimg": "http://z.dangdang.com/static/img/go%E7%B2%89@2x.a67564c.png",
+                "lists": {
+                    "listTitle": "满N件折",
+                    "listTxt1": "唐狮7月23日1件3折 2件2,5折",
+                    "listTxt2": "活动时间：2019年7月23日—2019年7月24日",
+                    "listImg1": "http://img3m7.ddimg.cn/35/26/1502395127-1_b_1.jpg",
+                    "listImg2": "http://img3m7.ddimg.cn/29/9/1502395517-1_b_1.jpg",
+                    "listImg3": "http://img3m4.ddimg.cn/29/13/1238195504-1_b_1.jpg"
+                }
+            }
+        },
+        {
+            "orange": {
+                "backimg": "http://z.dangdang.com/static/img/%E5%8D%A1%E7%89%87-%E6%A9%99@2x.54e6a8b.png",
+                "goimg": "http://z.dangdang.com/static/img/go%E6%A9%99@2x.1fbf935.png",
+                "lists": {
+                    "listTitle": "满N件折",
+                    "listTxt1": "7.23-7.26满1件3.5折",
+                    "listTxt2": "活动时间：2019年7月23日—2019年7月26日",
+                    "listImg1": "http://img3m7.ddimg.cn/71/31/1001093417-1_b_2.jpg",
+                    "listImg2": "http://img3m3.ddimg.cn/87/10/1374463023-1_b_3.jpg",
+                    "listImg3": "http://img3m7.ddimg.cn/97/23/1474467487-1_b_1.jpg"
+                }
+            },
+            "blue": {
+                "backimg": "http://z.dangdang.com/static/img/%E5%8D%A1%E7%89%87-%E7%B4%AB@2x.74455b2.png",
+                "goimg": "http://z.dangdang.com/static/img/go%E7%B4%AB@2x.19428eb.png",
+                "lists": {
+                    "listTitle": "满N件折",
+                    "listTxt1": "超品1件3折",
+                    "listTxt2": "活动时间：2019年7月19日—2019年7月24日",
+                    "listImg1": "http://img3m1.ddimg.cn/28/35/1422374311-1_b_3.jpg",
+                    "listImg2": "http://img3m7.ddimg.cn/59/24/1400724527-1_b_1.jpg",
+                    "listImg3": "http://img3m1.ddimg.cn/12/17/1422263811-1_b_1.jpg"
+                }
+            },
+            "powder": {
+                "backimg": "http://z.dangdang.com/static/img/%E5%8D%A1%E7%89%87-%E7%B2%89@2x.e2c9871.png",
+                "goimg": "http://z.dangdang.com/static/img/go%E7%B2%89@2x.a67564c.png",
+                "lists": {
+                    "listTitle": "满N件折",
+                    "listTxt1": "7.22-7.23满2件8折",
+                    "listTxt2": "活动时间：2019年7月21日—2019年7月25日",
+                    "listImg1": "http://img3m0.ddimg.cn/60/6/1412971620-1_b_1.jpg",
+                    "listImg2": "http://img3m0.ddimg.cn/45/22/1414504620-1_b_1.jpg",
+                    "listImg3": "http://img3m3.ddimg.cn/3/10/1127352603-1_b_1.jpg"
+                }
+            }
+        },
+        {
+            "orange": {
+                "backimg": "http://z.dangdang.com/static/img/%E5%8D%A1%E7%89%87-%E6%A9%99@2x.54e6a8b.png",
+                "goimg": "http://z.dangdang.com/static/img/go%E6%A9%99@2x.1fbf935.png",
+                "lists": {
+                    "listTitle": "满N件折",
+                    "listTxt1": "铅笔俱乐部童装3件2折",
+                    "listTxt2": "活动时间：2019年7月19日—2019年7月26日",
+                    "listImg1": "http://img3m9.ddimg.cn/69/28/1424744709-1_b_1.jpg",
+                    "listImg2": "http://img3m9.ddimg.cn/58/19/1323130009-1_b_4.jpg",
+                    "listImg3": "http://img3m9.ddimg.cn/70/9/1364859709-1_b_2.jpg"
+                }
+            },
+            "blue": {
+                "backimg": "http://z.dangdang.com/static/img/%E5%8D%A1%E7%89%87-%E7%B4%AB@2x.74455b2.png",
+                "goimg": "http://z.dangdang.com/static/img/go%E7%B4%AB@2x.19428eb.png",
+                "lists": {
+                    "listTitle": "满N件折",
+                    "listTxt1": "尖货1件4折",
+                    "listTxt2": "活动时间：2019年7月19日—2019年7月24日",
+                    "listImg1": "http://img3m8.ddimg.cn/98/7/1131946298-1_b_9.jpg",
+                    "listImg2": "http://img3m8.ddimg.cn/94/6/1073159698-1_b_12.jpg",
+                    "listImg3": "http://img3m7.ddimg.cn/54/30/1449174627-1_b_2.jpg"
+                }
+            },
+            "powder": {
+                "backimg": "http://z.dangdang.com/static/img/%E5%8D%A1%E7%89%87-%E7%B2%89@2x.e2c9871.png",
+                "goimg": "http://z.dangdang.com/static/img/go%E7%B2%89@2x.a67564c.png",
+                "lists": {
+                    "listTitle": "满N件折",
+                    "listTxt1": "7-23",
+                    "listTxt2": "活动时间：2019年7月22日—2019年7月25日",
+                    "listImg1": "http://img3m1.ddimg.cn/72/14/1463223141-1_b_1.jpg",
+                    "listImg2": "http://img3m1.ddimg.cn/11/24/1463236841-1_b_1.jpg",
+                    "listImg3": "http://img3m1.ddimg.cn/4/36/1462612441-1_b_1.jpg"
+                }
+            }
+        },
+        {
+            "orange": {
+                "backimg": "http://z.dangdang.com/static/img/%E5%8D%A1%E7%89%87-%E6%A9%99@2x.54e6a8b.png",
+                "goimg": "http://z.dangdang.com/static/img/go%E6%A9%99@2x.1fbf935.png",
+                "lists": {
+                    "listTitle": "满N件折",
+                    "listTxt1": "7.5 1件3折",
+                    "listTxt2": "活动时间：2019年7月5日—2019年7月31日",
+                    "listImg1": "http://img3m9.ddimg.cn/22/3/1307722009-1_b_1.jpg",
+                    "listImg2": "http://img3m9.ddimg.cn/81/24/1168476489-1_b_1.jpg",
+                    "listImg3": "http://img3m0.ddimg.cn/82/23/1490666050-1_b_4.jpg"
+                }
+            },
+            "blue": {
+                "backimg": "http://z.dangdang.com/static/img/%E5%8D%A1%E7%89%87-%E7%B4%AB@2x.74455b2.png",
+                "goimg": "http://z.dangdang.com/static/img/go%E7%B4%AB@2x.19428eb.png",
+                "lists": {
+                    "listTitle": "满减额",
+                    "listTxt1": "教辅每满59减10",
+                    "listTxt2": "活动时间：2019年7月17日—2019年7月31日",
+                    "listImg1": "http://img3m8.ddimg.cn/61/18/25100818-1_b_3.jpg",
+                    "listImg2": "http://img3m3.ddimg.cn/20/24/25257593-1_b_8.jpg",
+                    "listImg3": "http://img3m6.ddimg.cn/55/25/22800646-1_b_30.jpg"
+                }
+            },
+            "powder": {
+                "backimg": "http://z.dangdang.com/static/img/%E5%8D%A1%E7%89%87-%E7%B2%89@2x.e2c9871.png",
+                "goimg": "http://z.dangdang.com/static/img/go%E7%B2%89@2x.a67564c.png",
+                "lists": {
+                    "listTitle": "N元场",
+                    "listTxt1": "跨店99元任选5件",
+                    "listTxt2": "活动时间：2019年7月11日—2019年7月24日",
+                    "listImg1": "http://img3m8.ddimg.cn/1/1/1104171058-1_b_8.jpg",
+                    "listImg2": "http://img3m2.ddimg.cn/23/13/1111142462-1_b_7.jpg",
+                    "listImg3": "http://img3m8.ddimg.cn/33/23/1133567358-1_b_4.jpg"
+                }
+            }
+        },
+        {
+            "orange": {
+                "backimg": "http://z.dangdang.com/static/img/%E5%8D%A1%E7%89%87-%E6%A9%99@2x.54e6a8b.png",
+                "goimg": "http://z.dangdang.com/static/img/go%E6%A9%99@2x.1fbf935.png",
+                "lists": {
+                    "listTitle": "满N件折",
+                    "listTxt1": "1件3折",
+                    "listTxt2": "活动时间：2019年7月22日—2019年7月27日",
+                    "listImg1": "http://img3m4.ddimg.cn/66/34/1037843004-1_b_1.jpg",
+                    "listImg2": "http://img3m9.ddimg.cn/74/21/1473103739-1_b_1.jpg",
+                    "listImg3": "http://img3m9.ddimg.cn/19/23/1473127939-1_b_1.jpg"
+                }
+            },
+            "blue": {
+                "backimg": "http://z.dangdang.com/static/img/%E5%8D%A1%E7%89%87-%E7%B4%AB@2x.74455b2.png",
+                "goimg": "http://z.dangdang.com/static/img/go%E7%B4%AB@2x.19428eb.png",
+                "lists": {
+                    "listTitle": "满N件折",
+                    "listTxt1": "唐狮7月23日1件1折",
+                    "listTxt2": "活动时间：2019年7月23日—2019年7月24日",
+                    "listImg1": "http://img3m0.ddimg.cn/68/0/1153187510-1_b_1.jpg",
+                    "listImg2": "http://img3m2.ddimg.cn/9/27/1380659652-1_b_3.jpg",
+                    "listImg3": "http://img3m0.ddimg.cn/63/2/1426090410-1_b_1.jpg"
+                }
+            },
+            "powder": {
+                "backimg": "http://z.dangdang.com/static/img/%E5%8D%A1%E7%89%87-%E7%B2%89@2x.e2c9871.png",
+                "goimg": "http://z.dangdang.com/static/img/go%E7%B2%89@2x.a67564c.png",
+                "lists": {
+                    "listTitle": "满额减",
+                    "listTxt1": "跨店满200减120",
+                    "listTxt2": "活动时间：2019年7月4日—2019年8月10日",
+                    "listImg1": "http://img3m9.ddimg.cn/12/35/1264005579-1_b_12.jpg",
+                    "listImg2": "http://img3m6.ddimg.cn/63/3/1385222616-1_b_6.jpg",
+                    "listImg3": "http://img3m4.ddimg.cn/26/13/1426452614-1_b_1.jpg"
+                }
+            }
+        },
+        {
+            "orange": {
+                "backimg": "http://z.dangdang.com/static/img/%E5%8D%A1%E7%89%87-%E6%A9%99@2x.54e6a8b.png",
+                "goimg": "http://z.dangdang.com/static/img/go%E6%A9%99@2x.1fbf935.png",
+                "lists": {
+                    "listTitle": "N元场",
+                    "listTxt1": "68元10件 99元15件",
+                    "listTxt2": "活动时间：2019年7月9日—2019年7月30日",
+                    "listImg1": "http://img3m5.ddimg.cn/2/34/1409579525-1_b_1.jpg",
+                    "listImg2": "http://img3m6.ddimg.cn/88/26/1323181816-1_b_1.jpg",
+                    "listImg3": "http://img3m6.ddimg.cn/87/22/1395649716-1_b_6.jpg"
+                }
+            },
+            "blue": {
+                "backimg": "http://z.dangdang.com/static/img/%E5%8D%A1%E7%89%87-%E7%B4%AB@2x.74455b2.png",
+                "goimg": "http://z.dangdang.com/static/img/go%E7%B4%AB@2x.19428eb.png",
+                "lists": {
+                    "listTitle": "满N件折",
+                    "listTxt1": "笛莎3件2折",
+                    "listTxt2": "活动时间：2019年7月21日—2019年7月26日",
+                    "listImg1": "http://img3m9.ddimg.cn/59/22/1033735289-1_b_2.jpg",
+                    "listImg2": "http://img3m9.ddimg.cn/68/35/1209124589-1_b_1.jpg",
+                    "listImg3": "http://img3m9.ddimg.cn/4/13/1032323989-1_b_2.jpg"
+                }
+            },
+            "powder": {
+                "backimg": "http://z.dangdang.com/static/img/%E5%8D%A1%E7%89%87-%E7%B2%89@2x.e2c9871.png",
+                "goimg": "http://z.dangdang.com/static/img/go%E7%B2%89@2x.a67564c.png",
+                "lists": {
+                    "listTitle": "满N件折",
+                    "listTxt1": "1件3折",
+                    "listTxt2": "活动时间：2019年7月22日—2019年7月24日",
+                    "listImg1": "http://img3m9.ddimg.cn/29/24/1437964139-1_b_1.jpg",
+                    "listImg2": "http://img3m0.ddimg.cn/60/33/1432822110-1_b_1.jpg",
+                    "listImg3": "http://img3m0.ddimg.cn/10/3/1394622910-1_b_2.jpg"
+                }
+            }
+        },
+        {
+            "orange": {
+                "backimg": "http://z.dangdang.com/static/img/%E5%8D%A1%E7%89%87-%E6%A9%99@2x.54e6a8b.png",
+                "goimg": "http://z.dangdang.com/static/img/go%E6%A9%99@2x.1fbf935.png",
+                "lists": {
+                    "listTitle": "满N件折",
+                    "listTxt1": "笛莎3件3折",
+                    "listTxt2": "活动时间：2019年7月21日—2019年7月26日",
+                    "listImg1": "http://img3m9.ddimg.cn/64/24/1386342109-1_b_2.jpg",
+                    "listImg2": "http://img3m9.ddimg.cn/31/17/1033445389-1_b_2.jpg",
+                    "listImg3": "http://img3m9.ddimg.cn/18/29/1055342889-1_b_1.jpg"
+                }
+            },
+            "blue": {
+                "backimg": "http://z.dangdang.com/static/img/%E5%8D%A1%E7%89%87-%E7%B4%AB@2x.74455b2.png",
+                "goimg": "http://z.dangdang.com/static/img/go%E7%B4%AB@2x.19428eb.png",
+                "lists": {
+                    "listTitle": "满N件折",
+                    "listTxt1": "1件4折",
+                    "listTxt2": "活动时间：2019年7月5日—2019年7月31日",
+                    "listImg1": "http://img3m9.ddimg.cn/3/20/1307838909-1_b_2.jpg",
+                    "listImg2": "http://img3m9.ddimg.cn/68/3/1110243389-1_b_2.jpg",
+                    "listImg3": "http://img3m9.ddimg.cn/18/2/1407543309-1_b_1.jpg"
+                }
+            },
+            "powder": {
+                "backimg": "http://z.dangdang.com/static/img/%E5%8D%A1%E7%89%87-%E7%B2%89@2x.e2c9871.png",
+                "goimg": "http://z.dangdang.com/static/img/go%E7%B2%89@2x.a67564c.png",
+                "lists": {
+                    "listTitle": "N元场",
+                    "listTxt1": "夏清仓-99任选3",
+                    "listTxt2": "活动时间：2019年7月19日—2019年7月29日",
+                    "listImg1": "http://img3m8.ddimg.cn/40/32/1350721588-1_b_3.jpg",
+                    "listImg2": "http://img3m8.ddimg.cn/57/2/1411271688-1_b_1.jpg",
+                    "listImg3": "http://img3m8.ddimg.cn/63/3/1348753788-1_b_4.jpg"
+                }
+            }
+        },
+        {
+            "orange": {
+                "backimg": "http://z.dangdang.com/static/img/%E5%8D%A1%E7%89%87-%E6%A9%99@2x.54e6a8b.png",
+                "goimg": "http://z.dangdang.com/static/img/go%E6%A9%99@2x.1fbf935.png",
+                "lists": {
+                    "listTitle": "满N件折",
+                    "listTxt1": "莱夫1件2折",
+                    "listTxt2": "活动时间：2019年7月22日—2019年7月25日",
+                    "listImg1": "http://img3m7.ddimg.cn/70/15/1326773617-1_b_1.jpg",
+                    "listImg2": "http://img3m3.ddimg.cn/42/16/1405049523-1_b_1.jpg",
+                    "listImg3": "http://img3m3.ddimg.cn/22/3/1473209023-1_b_1.jpg"
+                }
+            },
+            "blue": {
+                "backimg": "http://z.dangdang.com/static/img/%E5%8D%A1%E7%89%87-%E7%B4%AB@2x.74455b2.png",
+                "goimg": "http://z.dangdang.com/static/img/go%E7%B4%AB@2x.19428eb.png",
+                "lists": {
+                    "listTitle": "满N件折",
+                    "listTxt1": "英格里奥2件1.5折",
+                    "listTxt2": "活动时间：2019年6月14日—2019年7月31日",
+                    "listImg1": "http://img3m2.ddimg.cn/5/14/1213144322-1_b_8.jpg",
+                    "listImg2": "http://img3m6.ddimg.cn/74/19/1276975136-1_b_3.jpg",
+                    "listImg3": "http://img3m5.ddimg.cn/55/36/1031205835-1_b_5.jpg"
+                }
+            },
+            "powder": {
+                "backimg": "http://z.dangdang.com/static/img/%E5%8D%A1%E7%89%87-%E7%B2%89@2x.e2c9871.png",
+                "goimg": "http://z.dangdang.com/static/img/go%E7%B2%89@2x.a67564c.png",
+                "lists": {
+                    "listTitle": "满额减",
+                    "listTxt1": "造价+安全",
+                    "listTxt2": "活动时间：2019年7月22日—2019年7月31日",
+                    "listImg1": "http://img3m5.ddimg.cn/20/34/1454321405-1_b_33.jpg",
+                    "listImg2": "http://img3m1.ddimg.cn/10/22/1056702151-1_b_26.jpg",
+                    "listImg3": "http://img3m9.ddimg.cn/92/6/1091706059-1_b_4.jpg"
+                }
+            }
+        },
+        {
+            "orange": {
+                "backimg": "http://z.dangdang.com/static/img/%E5%8D%A1%E7%89%87-%E6%A9%99@2x.54e6a8b.png",
+                "goimg": "http://z.dangdang.com/static/img/go%E6%A9%99@2x.1fbf935.png",
+                "lists": {
+                    "listTitle": "满N件折",
+                    "listTxt1": "茵曼7.17-31 2折688款",
+                    "listTxt2": "活动时间：2019年7月17日—2019年7月31日",
+                    "listImg1": "http://img3m6.ddimg.cn/95/14/1326883136-1_b_1.jpg",
+                    "listImg2": "http://img3m5.ddimg.cn/39/15/1462291815-1_b_2.jpg",
+                    "listImg3": "http://img3m5.ddimg.cn/16/23/1462784515-1_b_2.jpg"
+                }
+            },
+            "blue": {
+                "backimg": "http://z.dangdang.com/static/img/%E5%8D%A1%E7%89%87-%E7%B4%AB@2x.74455b2.png",
+                "goimg": "http://z.dangdang.com/static/img/go%E7%B4%AB@2x.19428eb.png",
+                "lists": {
+                    "listTitle": "N元场",
+                    "listTxt1": "铅笔俱乐部童装59元3件",
+                    "listTxt2": "活动时间：2019年7月17日—2019年7月26日",
+                    "listImg1": "http://img3m9.ddimg.cn/30/5/1281339309-1_b_2.jpg",
+                    "listImg2": "http://img3m9.ddimg.cn/2/21/1295711309-1_b_2.jpg",
+                    "listImg3": "http://img3m9.ddimg.cn/25/24/1323760309-1_b_4.jpg"
+                }
+            },
+            "powder": {
+                "backimg": "http://z.dangdang.com/static/img/%E5%8D%A1%E7%89%87-%E7%B2%89@2x.e2c9871.png",
+                "goimg": "http://z.dangdang.com/static/img/go%E7%B2%89@2x.a67564c.png",
+                "lists": {
+                    "listTitle": "N元场",
+                    "listTxt1": "【99元任选4套】>>>点击进入专区",
+                    "listTxt2": "活动时间：2019年5月31日—2019年11月27日",
+                    "listImg1": "http://img3m9.ddimg.cn/54/8/1374340329-1_b_2.jpg",
+                    "listImg2": "http://img3m0.ddimg.cn/52/31/1012685110-1_b_2.jpg",
+                    "listImg3": "http://img3m5.ddimg.cn/54/11/1369048185-1_b_6.jpg"
+                }
+            }
+        },
+        {
+            "orange": {
+                "backimg": "http://z.dangdang.com/static/img/%E5%8D%A1%E7%89%87-%E6%A9%99@2x.54e6a8b.png",
+                "goimg": "http://z.dangdang.com/static/img/go%E6%A9%99@2x.1fbf935.png",
+                "lists": {
+                    "listTitle": "满N件折",
+                    "listTxt1": "1件3折",
+                    "listTxt2": "活动时间：2019年7月21日—2019年7月26日",
+                    "listImg1": "http://img3m5.ddimg.cn/64/15/1232943985-1_b_1.jpg",
+                    "listImg2": "http://img3m7.ddimg.cn/37/25/1312222267-1_b_1.jpg",
+                    "listImg3": "http://img3m0.ddimg.cn/73/35/1396035010-1_b_2.jpg"
+                }
+            },
+            "blue": {
+                "backimg": "http://z.dangdang.com/static/img/%E5%8D%A1%E7%89%87-%E7%B4%AB@2x.74455b2.png",
+                "goimg": "http://z.dangdang.com/static/img/go%E7%B4%AB@2x.19428eb.png",
+                "lists": {
+                    "listTitle": "N元场",
+                    "listTxt1": "49元2件",
+                    "listTxt2": "活动时间：2019年7月22日—2019年7月26日",
+                    "listImg1": "http://img3m6.ddimg.cn/4/35/1411637836-1_b_1.jpg",
+                    "listImg2": "http://img3m5.ddimg.cn/80/1/1275601715-1_b_1.jpg",
+                    "listImg3": "http://img3m7.ddimg.cn/83/27/1447388597-1_b_1.jpg"
+                }
+            },
+            "powder": {
+                "backimg": "http://z.dangdang.com/static/img/%E5%8D%A1%E7%89%87-%E7%B2%89@2x.e2c9871.png",
+                "goimg": "http://z.dangdang.com/static/img/go%E7%B2%89@2x.a67564c.png",
+                "lists": {
+                    "listTitle": "满N件折",
+                    "listTxt1": "1件3折 2件折上7折",
+                    "listTxt2": "活动时间：2019年7月21日—2019年7月26日",
+                    "listImg1": "http://img3m1.ddimg.cn/57/0/1252513011-1_b_1.jpg",
+                    "listImg2": "http://img3m8.ddimg.cn/41/36/1418583218-1_b_2.jpg",
+                    "listImg3": "http://img3m8.ddimg.cn/89/28/1419182018-1_b_2.jpg"
+                }
+            }
+        },
+        {
+            "orange": {
+                "backimg": "http://z.dangdang.com/static/img/%E5%8D%A1%E7%89%87-%E6%A9%99@2x.54e6a8b.png",
+                "goimg": "http://z.dangdang.com/static/img/go%E6%A9%99@2x.1fbf935.png",
+                "lists": {
+                    "listTitle": "满额减",
+                    "listTxt1": "满减活动59-10,99-30",
+                    "listTxt2": "活动时间：2019年7月15日—2019年7月31日",
+                    "listImg1": "http://img3m3.ddimg.cn/63/29/1477519623-1_b_1.jpg",
+                    "listImg2": "http://img3m4.ddimg.cn/22/36/1268676904-1_b_1.jpg",
+                    "listImg3": "http://img3m9.ddimg.cn/4/30/1340193199-1_b_1.jpg"
+                }
+            },
+            "blue": {
+                "backimg": "http://z.dangdang.com/static/img/%E5%8D%A1%E7%89%87-%E7%B4%AB@2x.74455b2.png",
+                "goimg": "http://z.dangdang.com/static/img/go%E7%B4%AB@2x.19428eb.png",
+                "lists": {
+                    "listTitle": "满减额",
+                    "listTxt1": "满减",
+                    "listTxt2": "活动时间：2019年4月14日—2019年8月31日",
+                    "listImg1": "http://img3m4.ddimg.cn/80/3/1107232514-1_b_1.jpg",
+                    "listImg2": "http://img3m4.ddimg.cn/49/20/1106239414-1_b_1.jpg",
+                    "listImg3": "http://img3m4.ddimg.cn/51/35/1106239614-1_b_1.jpg"
+                }
+            },
+            "powder": {
+                "backimg": "http://z.dangdang.com/static/img/%E5%8D%A1%E7%89%87-%E7%B2%89@2x.e2c9871.png",
+                "goimg": "http://z.dangdang.com/static/img/go%E7%B2%89@2x.a67564c.png",
+                "lists": {
+                    "listTitle": "满N件折",
+                    "listTxt1": "夏清仓-1件4折",
+                    "listTxt2": "活动时间：2019年7月19日—2019年7月29日",
+                    "listImg1": "http://img3m8.ddimg.cn/6/36/1411157688-1_b_2.jpg",
+                    "listImg2": "http://img3m8.ddimg.cn/79/7/1349101888-1_b_2.jpg",
+                    "listImg3": "http://img3m8.ddimg.cn/49/26/1270651288-1_b_1.jpg"
+                }
+            }
+        },
+        {
+            "orange": {
+                "backimg": "http://z.dangdang.com/static/img/%E5%8D%A1%E7%89%87-%E6%A9%99@2x.54e6a8b.png",
+                "goimg": "http://z.dangdang.com/static/img/go%E6%A9%99@2x.1fbf935.png",
+                "lists": {
+                    "listTitle": "满N件折",
+                    "listTxt1": "717",
+                    "listTxt2": "活动时间：2019年7月21日—2019年7月31日",
+                    "listImg1": "http://img3m2.ddimg.cn/95/4/1274909522-1_b_2.jpg",
+                    "listImg2": "http://img3m3.ddimg.cn/91/11/1298561113-1_b_1.jpg",
+                    "listImg3": "http://img3m3.ddimg.cn/6/4/1287642813-1_b_1.jpg"
+                }
+            },
+            "blue": {
+                "backimg": "http://z.dangdang.com/static/img/%E5%8D%A1%E7%89%87-%E7%B4%AB@2x.74455b2.png",
+                "goimg": "http://z.dangdang.com/static/img/go%E7%B4%AB@2x.19428eb.png",
+                "lists": {
+                    "listTitle": "满N件折",
+                    "listTxt1": "1-5",
+                    "listTxt2": "活动时间：2019年7月22日—2019年7月24日",
+                    "listImg1": "http://img3m2.ddimg.cn/79/21/1512959362-1_b_2.jpg",
+                    "listImg2": "http://img3m2.ddimg.cn/7/10/1512959092-1_b_2.jpg",
+                    "listImg3": "http://img3m2.ddimg.cn/98/16/1512963242-1_b_2.jpg"
+                }
+            },
+            "powder": {
+                "backimg": "http://z.dangdang.com/static/img/%E5%8D%A1%E7%89%87-%E7%B2%89@2x.e2c9871.png",
+                "goimg": "http://z.dangdang.com/static/img/go%E7%B2%89@2x.a67564c.png",
+                "lists": {
+                    "listTitle": "满N件折",
+                    "listTxt1": "0722清仓2件8折",
+                    "listTxt2": "活动时间：2019年7月21日—2019年7月24日",
+                    "listImg1": "http://img3m3.ddimg.cn/92/11/1128568313-1_b_1.jpg",
+                    "listImg2": "http://img3m3.ddimg.cn/53/26/1127950613-1_b_1.jpg",
+                    "listImg3": "http://img3m3.ddimg.cn/92/21/1189780013-1_b_1.jpg"
+                }
+            }
+        },
+        {
+            "orange": {
+                "backimg": "http://z.dangdang.com/static/img/%E5%8D%A1%E7%89%87-%E6%A9%99@2x.54e6a8b.png",
+                "goimg": "http://z.dangdang.com/static/img/go%E6%A9%99@2x.1fbf935.png",
+                "lists": {
+                    "listTitle": "N元场",
+                    "listTxt1": "89元3件专场",
+                    "listTxt2": "活动时间：2019年7月21日—2019年7月26日",
+                    "listImg1": "http://img3m7.ddimg.cn/77/6/1276860497-1_b_1.jpg",
+                    "listImg2": "http://img3m6.ddimg.cn/54/8/1434373236-1_b_1.jpg",
+                    "listImg3": "http://img3m6.ddimg.cn/24/9/1466693736-1_b_1.jpg"
+                }
+            },
+            "blue": {
+                "backimg": "http://z.dangdang.com/static/img/%E5%8D%A1%E7%89%87-%E7%B4%AB@2x.74455b2.png",
+                "goimg": "http://z.dangdang.com/static/img/go%E7%B4%AB@2x.19428eb.png",
+                "lists": {
+                    "listTitle": "满减额",
+                    "listTxt1": "大满减（除书虫新概念）",
+                    "listTxt2": "活动时间：2019年7月8日—2019年7月31日",
+                    "listImg1": "http://img3m1.ddimg.cn/85/8/1435012411-1_b_1.jpg",
+                    "listImg2": "http://img3m7.ddimg.cn/66/35/1400121327-1_b_1.jpg",
+                    "listImg3": "http://img3m7.ddimg.cn/91/35/1394619427-1_b_1.jpg"
+                }
+            },
+            "powder": {
+                "backimg": "http://z.dangdang.com/static/img/%E5%8D%A1%E7%89%87-%E7%B2%89@2x.e2c9871.png",
+                "goimg": "http://z.dangdang.com/static/img/go%E7%B2%89@2x.a67564c.png",
+                "lists": {
+                    "listTitle": "N元场",
+                    "listTxt1": "89元3件专场",
+                    "listTxt2": "活动时间：2019年7月21日—2019年7月26日",
+                    "listImg1": "http://img3m7.ddimg.cn/77/6/1276860497-1_b_1.jpg",
+                    "listImg2": "http://img3m6.ddimg.cn/54/8/1434373236-1_b_1.jpg",
+                    "listImg3": "http://img3m6.ddimg.cn/24/9/1466693736-1_b_1.jpg"
+                }
+            }
+        },
+        {
+            "orange": {
+                "backimg": "http://z.dangdang.com/static/img/%E5%8D%A1%E7%89%87-%E6%A9%99@2x.54e6a8b.png",
+                "goimg": "http://z.dangdang.com/static/img/go%E6%A9%99@2x.1fbf935.png",
+                "lists": {
+                    "listTitle": "N元场",
+                    "listTxt1": "洋葱头26册",
+                    "listTxt2": "活动时间：2019年7月18日—2020年1月14日",
+                    "listImg1": "http://img3m5.ddimg.cn/2/4/1415028485-1_b_1.jpg",
+                    "listImg2": "http://img3m5.ddimg.cn/61/33/1409440885-1_b_1.jpg",
+                    "listImg3": "http://img3m5.ddimg.cn/25/4/1412882485-1_b_1.jpg"
+                }
+            },
+            "blue": {
+                "backimg": "http://z.dangdang.com/static/img/%E5%8D%A1%E7%89%87-%E7%B4%AB@2x.74455b2.png",
+                "goimg": "http://z.dangdang.com/static/img/go%E7%B4%AB@2x.19428eb.png",
+                "lists": {
+                    "listTitle": "N元场",
+                    "listTxt1": "89元3件专场",
+                    "listTxt2": "活动时间：2019年7月21日—2019年7月26日",
+                    "listImg1": "http://img3m7.ddimg.cn/77/6/1276860497-1_b_1.jpg",
+                    "listImg2": "http://img3m6.ddimg.cn/54/8/1434373236-1_b_1.jpg",
+                    "listImg3": "http://img3m6.ddimg.cn/24/9/1466693736-1_b_1.jpg"
+                }
+            },
+            "powder": {
+                "backimg": "http://z.dangdang.com/static/img/%E5%8D%A1%E7%89%87-%E7%B2%89@2x.e2c9871.png",
+                "goimg": "http://z.dangdang.com/static/img/go%E7%B2%89@2x.a67564c.png",
+                "lists": {
+                    "listTitle": "满额减",
+                    "listTxt1": "129减30",
+                    "listTxt2": "活动时间：2019年7月22日—2019年7月26日",
+                    "listImg1": "http://img3m5.ddimg.cn/82/7/1373295115-1_b_1.jpg",
+                    "listImg2": "http://img3m6.ddimg.cn/54/36/1411920036-1_b_1.jpg",
+                    "listImg3": "http://img3m5.ddimg.cn/77/24/1373363915-1_b_1.jpg"
+                }
+            }
+        },
+        {
+            "orange": {
+                "backimg": "http://z.dangdang.com/static/img/%E5%8D%A1%E7%89%87-%E6%A9%99@2x.54e6a8b.png",
+                "goimg": "http://z.dangdang.com/static/img/go%E6%A9%99@2x.1fbf935.png",
+                "lists": {
+                    "listTitle": "满额减",
+                    "listTxt1": "小学",
+                    "listTxt2": "活动时间：2019年7月10日—2019年7月30日",
+                    "listImg1": "http://img3m6.ddimg.cn/20/3/1298217116-1_b_3.jpg",
+                    "listImg2": "http://img3m0.ddimg.cn/43/15/1447942660-1_b_4.jpg",
+                    "listImg3": "http://img3m6.ddimg.cn/3/5/1298215416-1_b_4.jpg"
+                }
+            },
+            "blue": {
+                "backimg": "http://z.dangdang.com/static/img/%E5%8D%A1%E7%89%87-%E7%B4%AB@2x.74455b2.png",
+                "goimg": "http://z.dangdang.com/static/img/go%E7%B4%AB@2x.19428eb.png",
+                "lists": {
+                    "listTitle": "N元场",
+                    "listTxt1": "89元3件",
+                    "listTxt2": "活动时间：2019年7月22日—2019年7月25日",
+                    "listImg1": "http://img3m9.ddimg.cn/32/33/1256995409-1_b_1.jpg",
+                    "listImg2": "http://img3m9.ddimg.cn/30/13/1256609109-1_b_4.jpg",
+                    "listImg3": "http://img3m9.ddimg.cn/38/8/1094154869-1_b_3.jpg"
+                }
+            },
+            "powder": {
+                "backimg": "http://z.dangdang.com/static/img/%E5%8D%A1%E7%89%87-%E7%B2%89@2x.e2c9871.png",
+                "goimg": "http://z.dangdang.com/static/img/go%E7%B2%89@2x.a67564c.png",
+                "lists": {
+                    "listTitle": "满N件折",
+                    "listTxt1": "1件3折 7月",
+                    "listTxt2": "活动时间：2019年7月17日—2019年7月31日",
+                    "listImg1": "http://img3m9.ddimg.cn/17/24/1322128979-1_b_2.jpg",
+                    "listImg2": "http://img3m6.ddimg.cn/67/25/1350612616-1_b_4.jpg",
+                    "listImg3": "http://img3m6.ddimg.cn/89/30/1388076416-1_b_2.jpg"
+                }
+            }
+        },
+        {
+            "orange": {
+                "backimg": "http://z.dangdang.com/static/img/%E5%8D%A1%E7%89%87-%E6%A9%99@2x.54e6a8b.png",
+                "goimg": "http://z.dangdang.com/static/img/go%E6%A9%99@2x.1fbf935.png",
+                "lists": {
+                    "listTitle": "满N件折",
+                    "listTxt1": "7.22-7.23 1件3折",
+                    "listTxt2": "活动时间：2019年7月22日—2019年7月24日",
+                    "listImg1": "http://img3m8.ddimg.cn/59/10/1479485858-1_b_1.jpg",
+                    "listImg2": "http://img3m9.ddimg.cn/46/28/1091543059-1_b_1.jpg",
+                    "listImg3": "http://img3m9.ddimg.cn/72/24/1044530559-1_b_3.jpg"
+                }
+            },
+            "blue": {
+                "backimg": "http://z.dangdang.com/static/img/%E5%8D%A1%E7%89%87-%E7%B4%AB@2x.74455b2.png",
+                "goimg": "http://z.dangdang.com/static/img/go%E7%B4%AB@2x.19428eb.png",
+                "lists": {
+                    "listTitle": "满额减",
+                    "listTxt1": "学乐满99-30",
+                    "listTxt2": "活动时间：2019年4月1日—2019年7月31日",
+                    "listImg1": "http://img3m8.ddimg.cn/94/31/1237800658-1_b_1.jpg",
+                    "listImg2": "http://img3m8.ddimg.cn/53/27/1237459958-1_b_1.jpg",
+                    "listImg3": "http://img3m8.ddimg.cn/15/23/1239228258-1_b_1.jpg"
+                }
+            },
+            "powder": {
+                "backimg": "http://z.dangdang.com/static/img/%E5%8D%A1%E7%89%87-%E7%B2%89@2x.e2c9871.png",
+                "goimg": "http://z.dangdang.com/static/img/go%E7%B2%89@2x.a67564c.png",
+                "lists": {
+                    "listTitle": "满N件折",
+                    "listTxt1": "1件3折 7月",
+                    "listTxt2": "活动时间：2019年7月17日—2019年7月31日",
+                    "listImg1": "http://img3m9.ddimg.cn/17/24/1322128979-1_b_2.jpg",
+                    "listImg2": "http://img3m6.ddimg.cn/67/25/1350612616-1_b_4.jpg",
+                    "listImg3": "http://img3m6.ddimg.cn/89/30/1388076416-1_b_2.jpg"
+                }
+            }
+        }
+    ]
+}

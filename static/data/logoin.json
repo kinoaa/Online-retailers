@@ -1,0 +1,31 @@
+{
+    "top":[
+        {
+            "num":99,
+            "name":"收藏的商品"
+        },
+        {
+            "num":9,
+            "name":"关注的店铺"
+        },
+        {
+            "num":999,
+            "name":"我的足迹"
+        }
+    ],
+    "mymeun":"http://img63.ddimg.cn/upload_img/00487/11111/wd-012-1.png",
+    "bot":[
+        {
+            "img":"http://img60.ddimg.cn/upload_img/00487/11111/fukuan-07.png",
+            "name":"待付款"
+        },
+        {
+            "img":"http://img63.ddimg.cn/upload_img/00487/11111/shouhuo-07.png",
+            "name":"待收货"
+        },
+        {
+            "img":"http://img61.ddimg.cn/upload_img/00555/touch/pd-return.png",
+            "name":"退换货"
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "data": {
+        "background": "http://z.dangdang.com/static/img/%E4%B9%9D%E5%AE%AB%E6%A0%BC.5e5e35d.png",
+        "worthTitle": "促销专场",
+        "worthA": "更多",
+        "slides": [
+            {
+                "worthTxt": "7.23文艺社科品类日",
+                "worthPrice": "每满100减50",
+                "worthImg": "http://img3m5.ddimg.cn/56/4/23761145-1_b_2.jpg"
+            },
+            {
+                "worthTxt": "教辅",
+                "worthPrice": "每满100减50",
+                "worthImg": "http://img3m6.ddimg.cn/73/33/25193296-1_b_345.jpg"
+            },
+            {
+                "worthPrice": "7月49元5件",
+                "worthImg": "http://img3m6.ddimg.cn/31/33/25081186-1_b_5.jpg"
+            },
+            {
+                "worthPrice": "此书参加电子书49元5本",
+                "worthImg": "http://img3m1.ddimg.cn/24/4/1901124051-1_b_1.jpg"
+            },
+            {
+                "worthTxt": "中小学教辅跨店",
+                "worthPrice": "每满75减25",
+                "worthImg": "http://img3m0.ddimg.cn/86/35/1018361210-1_b_15.jpg"
+            },
+            {
+                "worthPrice": "超品1件3折",
+                "worthImg": "http://img3m1.ddimg.cn/28/35/1422374311-1_b_3.jpg"
+            }
+        ]
+    }
+}
