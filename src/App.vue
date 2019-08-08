@@ -12,6 +12,9 @@ export default {
   name: 'App',
   components: {
     Navlist
+  },
+  updated () {
+    window.scroll(0, 0)
   }
 }
 </script>
