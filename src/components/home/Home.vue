@@ -102,6 +102,9 @@ export default {
       }
     },
     handleScroll () {
+      if (!this.$refs.top) {
+        return
+      }
       var scrollTop = document.documentElement.scrollTop ||
         window.pageYOffset ||
         document.body.scrollTop
